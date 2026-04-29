@@ -1,3 +1,10 @@
+# images
+images/
+
+# skip indesign file and temporary files
+*.idlk
+*.indd
+
 # Logs
 logs
 *.log
